@@ -170,7 +170,7 @@
   {
     "id": "241f882c2880dcf1d9c3872b85345a68688078ff21f5f41bc030068e8bb882cai0",
     "meta": {
-      "name": "VBYTES #25"
+      "name": "VALUE #25"
     }
   },
   {
